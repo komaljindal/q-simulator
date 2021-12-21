@@ -1,1 +1,1 @@
-# submission_by_komal
+# q simulator
